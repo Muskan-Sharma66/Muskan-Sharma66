@@ -1,5 +1,5 @@
-## Hi there 👋# 💫 About Me:
-👋 Hi, I’m Muskan Sharma.<br><br>💻 Passionate about Full Stack Development and React.js, I continuously seek opportunities to learn and grow.<br><br>🏆 Achievements:<br><br>2nd runner-up in a technical rangoli competition<br>Completed courses in Full Stack Development, Web Development, Node.js & AI.<br><br>🎯 Goals & Vision:<br><br>Aspiring to become a valuable tech industry professional<br><br>🛠️ Strengths:<br>✔️ Timely completion of work<br>✔️ Trusting and collaborative nature<br><br>🎨 Hobbies:<br><br>Painting<br>Playing badminton<br>🌱 Always eager to learn and take on new challenges!<br><br>📫 Let’s connect and build something amazing together!<br><br>
+## 👋 Hi, I’m Muskan Sharma. 
+ 💫 About Me:<br><br>💻 Passionate about Full Stack Development and React.js, I continuously seek opportunities to learn and grow.<br><br>🏆 Achievements:<br><br>2nd runner-up in a technical rangoli competition<br>Completed courses in Full Stack Development, Web Development, Node.js & AI.<br><br>🎯 Goals & Vision:<br><br>Aspiring to become a valuable tech industry professional<br><br>🛠️ Strengths:<br>✔️ Timely completion of work<br>✔️ Trusting and collaborative nature<br><br>🎨 Hobbies:<br><br>Painting<br>Playing badminton<br>🌱 Always eager to learn and take on new challenges!<br><br>📫 Let’s connect and build something amazing together!<br><br>
 
 
 ## 🌐 Socials:
